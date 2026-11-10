@@ -72,4 +72,33 @@ File: `UART_TX.sv`
 | txstart_i | input | logic | Start transmission pulse |
 | s_tick_i | input | logic | Baud sampling tick |
 | txdone_o | output | logic | Flag indicating 1 byte transmitted |
-| uarttx_o
+| uarttx_o | output | logic | Serial output data |
+
+<br>
+
+### BAUD_GEN
+
+File: `BAUD_GEN.sv`
+
+| Signal | Direction | Type/Width | Description |
+| :--- | :--- | :--- | :--- |
+| clk | input | logic | System clock |
+| rst_n | input | logic | Active-low reset |
+| s_tick_o | output | logic | Output baud rate generation tick |
+
+<br>
+
+### FIFO
+
+File: `FIFO.sv`
+
+| Signal | Direction | Type/Width | Description |
+| :--- | :--- | :--- | :--- |
+| clk | input | logic | System clock (triangle symbol) |
+| rst_n | input | logic | Active-low reset |
+| wr_en | input | logic | Write Enable signal |
+| wr_data_i | input | logic [7:0] | Data written into FIFO |
+| rd_en | input | logic | Read Enable signal |
+| rd_data_o | output | logic [7:0] | Data read from FIFO |
+| empty_o | output | logic | FIFO empty flag |
+| full_o | output | logic | FIFO full flag |
