@@ -20,7 +20,8 @@ Detailed technical specifications, parameter configurations, and simulation veri
 * UART_TOP module block
 
 <!-- Drag and drop your UART_TOP block diagram image into the line below to replace the link -->
-<img width="976" height="623" alt="UART-UART_TOP drawio" src="https://github.com/user-attachments/assets/6b42033e-4607-4656-964e-cb000370f5c2" />
+<img width="976" height="623" alt="UART-UART_TOP drawio (1)" src="https://github.com/user-attachments/assets/38e258c5-b10c-41df-b24c-e605d29aeda7" />
+
 
 ---
 
