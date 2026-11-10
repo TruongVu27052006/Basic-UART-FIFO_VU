@@ -1,0 +1,49 @@
+C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/uart_tx.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/uart_tx.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/UART.mpf' is used as the ini file.
+-- Compiling module uart_tx
+
+Top level modules:
+	uart_tx
+
+} {} {}} C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/fifo.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/fifo.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/UART.mpf' is used as the ini file.
+-- Compiling module fifo
+
+Top level modules:
+	fifo
+
+} {} {}} C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/uart_baud_gen.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/uart_baud_gen.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/UART.mpf' is used as the ini file.
+-- Compiling module uart_baud_gen
+
+Top level modules:
+	uart_baud_gen
+
+} {} {}} C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/TOP_MODULE.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/TOP_MODULE.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/UART.mpf' is used as the ini file.
+-- Compiling module TOP_MODULE
+
+Top level modules:
+	TOP_MODULE
+
+} {} {}} C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/uart_rx.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/uart_rx.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/UART.mpf' is used as the ini file.
+-- Compiling module uart_rx
+
+Top level modules:
+	uart_rx
+
+} {} {}} C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/TOP_MODULE_TB.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/TOP_MODULE_TB.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'C:/Users/Legion/Desktop/KY_4/FAP201/UART_PRJ/CODE/UART.mpf' is used as the ini file.
+-- Compiling module TOP_MODULE_TB
+
+Top level modules:
+	TOP_MODULE_TB
+
+} {} {}}
